@@ -1,14 +1,15 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "README.md generator that is created by using arguments in the command line.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
