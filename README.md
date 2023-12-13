@@ -1,7 +1,7 @@
-# dfgv
+# fdasdf
 
   ## Description
-  dfgfds
+  asdfasdf
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,21 +13,23 @@
   
 
   ## Installation
-  dsfgfd
+  asdfasdf
 
   ## Usage
-  dfgdsf
+  asdfdsaf
 
   ## License
   ![Static Badge](https://img.shields.io/badge/license--agpl-3.0-green)
 
-[License Link](https://api.github.com/licenses/agpl-3.0)
+[Link to agpl-3.0 license](https://api.github.com/licenses/agpl-3.0)
 
   ## Contributing
-  dfsgsdfg
+  sadfdsaf
 
   ## Tests
-  fdsgfdsgds
+  sadfadsf
 
   ## Questions
+  - Visit my GitHub Profile [nicklearning](https://github.com/nicklearning)
+  - For additional questions, please contact me at this address: adsfds
 
