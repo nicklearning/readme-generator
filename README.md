@@ -2,6 +2,7 @@
 
   ## Description
   Use inquirer to dynamically create a README file.
+  -[Walkthrough Video](https://drive.google.com/file/d/1TovmO1S3L8Z21fPkWwEkL_5r3gqeoc0e/view?usp=sharing)
 
   ## Table of Contents
   - [Installation](#installation)
